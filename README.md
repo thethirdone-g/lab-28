@@ -39,11 +39,3 @@ This method sets the state of the characters from the constructor.
 
 #### Running the app
 Code Sandbox automatically runs and renders the application in the browser.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
